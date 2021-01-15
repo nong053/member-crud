@@ -1,0 +1,37 @@
+ //Example Data json
+  /*
+  http://192.168.1.104/mfa/api/public/member
+  Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBnbWFpbC5jb20iLCJpc3MiOiJodHRwOlwvXC8xOTIuMTY4LjEuMTA0XC9tZmFcL2FwaVwvcHVibGljXC9zZXNzaW9uIiwiaWF0IjoxNjEwNTE4OTQ3LCJleHAiOjE2MTA1NTQ5NDcsIm5iZiI6MTYxMDUxODk0NywianRpIjoiNzM0ZWU4M2U4NzIwNTBkNjM2NTRjNTIxMDc5NGUwMDYifQ.J2vc1KSH-GS2AllUwW7aLu3Ge7PnSLQT6IhhoGMsRKM
+  
+  *EMAIL: abc@gmail.com
+  *PASSWORD: 1234
+  TITLE: นาย
+  *FIRST_NAME: โฆษิต
+  *LAST_NAME: อารมณ์สวะ
+  *POSITION: นขย
+  *ACTIVE_FLAG: 1
+  role: 1
+  CREATED_BY: admin@gmail.com
+
+  GET
+  Request URL: http://192.168.1.104/mfa/api/public/member/index
+  Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbkBnbWFpbC5jb20iLCJpc3MiOiJodHRwOlwvXC8xOTIuMTY4LjEuMTA0XC9tZmFcL2FwaVwvcHVibGljXC9zZXNzaW9uIiwiaWF0IjoxNjEwNTE4OTQ3LCJleHAiOjE2MTA1NTQ5NDcsIm5iZiI6MTYxMDUxODk0NywianRpIjoiNzM0ZWU4M2U4NzIwNTBkNjM2NTRjNTIxMDc5NGUwMDYifQ.J2vc1KSH-GS2AllUwW7aLu3Ge7PnSLQT6IhhoGMsRKM
+  
+  ACTIVE_FLAG: "1"
+  ADDRESS: ""
+  CREATED_BY: "admin@gmail.com"
+  CREATED_DATE: "2019-10-03 08:51:24"
+  DATE_OF_BIRTH: "0000-00-00"
+  EMAIL: "test@gmail.com"
+  FIRST_NAME: "ทดสอบ"
+  GENDER: ""
+  LAST_NAME: "ระบบ"
+  POSITION: "tester"
+  PROFILE_ID: 59
+  TITLE: "นาย"
+  UPDATED_BY: ""
+  UPDATED_DATE: "2019-10-08 12:25:05"
+  role: 4
+  user_group_name: "ส่วนบริหารข้อมูล"
+
+  */
